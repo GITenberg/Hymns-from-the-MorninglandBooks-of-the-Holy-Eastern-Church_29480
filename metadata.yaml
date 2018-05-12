@@ -11,6 +11,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29480#Hymns-from-the-MorninglandBooks-of-the-Holy-Eastern-Church
 gutenberg_issued: '2009-07-21'
 gutenberg_type: Text
 identifiers:
